@@ -1,0 +1,1253 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.0.0.199:8501
+
+  For better performance, install the Watchdog module:
+
+  $ xcode-select --install
+  $ pip install watchdog
+            
+2026-03-16 20:55:13.765 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:55:13.845 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:55:13.873 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:03.348 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:03.395 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:03.402 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:04.857 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:04.900 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:04.908 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:05.858 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:05.898 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:05.906 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:06.744 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:06.784 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:06.791 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:08.240 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:08.279 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 20:56:08.287 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:00:26.958 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:00:26.967 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:00:39.961 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:00:39.978 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:05.082 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:05.097 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:09.337 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:09.354 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:11.794 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:11.812 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:13.874 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:13.892 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:21.712 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:01:21.723 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:06:29.098 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:06:29.110 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:06:47.855 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:06:47.866 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:01.470 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:01.478 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:01.931 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:01.939 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:02.937 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:02.945 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:03.345 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:03.356 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:07.044 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:07.053 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:09.137 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:09.146 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:10.557 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:10.565 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:11.284 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:11.293 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:18.422 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:18.430 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:19.321 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:19.328 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:20.675 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:20.682 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:22.807 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:22.814 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:23.824 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:23.831 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:24.755 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:24.762 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:25.737 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:25.743 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:26.935 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:26.941 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:27.859 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:27.866 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:32.816 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:32.823 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:33.542 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:33.549 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:34.176 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:34.183 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:37.026 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:37.033 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:44.041 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:44.048 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:54.977 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:07:54.984 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:08:29.240 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/Users/yeswanth/Desktop/VA/Dataset/Visual_Analytics/new_dashboard.py:230: FutureWarning:
+
+The behavior of Series.idxmax with all-NA values, or any-NA and skipna=False, is deprecated. In a future version this will raise ValueError
+
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/indexes/[0m[1mbase.py[0m:3812 in get_loc                                              [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m3809 [0m[2;33m│   │   [0m[33m"""[0m                                                                   [31m [0m
+[31m [0m   [2m3810 [0m[2m│   │   [0mcasted_key = [96mself[0m._maybe_cast_indexer(key)                            [31m [0m
+[31m [0m   [2m3811 [0m[2m│   │   [0m[94mtry[0m:                                                                  [31m [0m
+[31m [0m [31m❱ [0m3812 [2m│   │   │   [0m[94mreturn[0m [96mself[0m._engine.get_loc(casted_key)                           [31m [0m
+[31m [0m   [2m3813 [0m[2m│   │   [0m[94mexcept[0m [96mKeyError[0m [94mas[0m err:                                               [31m [0m
+[31m [0m   [2m3814 [0m[2m│   │   │   [0m[94mif[0m [96misinstance[0m(casted_key, [96mslice[0m) [95mor[0m (                             [31m [0m
+[31m [0m   [2m3815 [0m[2m│   │   │   │   [0m[96misinstance[0m(casted_key, abc.Iterable)                          [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.index.IndexEngine.get_loc:167                                        [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.index.IndexEngine.get_loc:196                                        [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.hashtable.PyObjectHashTable.get_item:7088                            [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.hashtable.PyObjectHashTable.get_item:7096                            [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mKeyError: [0mnan
+
+[3mThe above exception was the direct cause of the following exception:[0m
+
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/stre[0m [31m [0m
+[31m [0m [2mamlit/runtime/scriptrunner/[0m[1mexec_code.py[0m:129 in exec_func_with_error_handling         [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/stre[0m [31m [0m
+[31m [0m [2mamlit/runtime/scriptrunner/[0m[1mscript_runner.py[0m:689 in code_to_exec                      [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Users/yeswanth/Desktop/VA/Dataset/Visual_Analytics/[0m[1mnew_dashboard.py[0m:231 in <module> [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m228 [0m[2m│   │   │   [0mseries = corr_subset.loc[pol]                                      [31m [0m
+[31m [0m   [2m229 [0m[2m│   │   │   [0m[2m# Get the disease with max positive correlation for that pollutant[0m [31m [0m
+[31m [0m   [2m230 [0m[2m│   │   │   [0mhighest_disease = series.idxmax()                                  [31m [0m
+[31m [0m [31m❱ [0m231 [2m│   │   │   [0mhighest_val = [1;4mseries[highest_disease][0m                              [31m [0m
+[31m [0m   [2m232 [0m[2m│   │   │   [0m                                                                   [31m [0m
+[31m [0m   [2m233 [0m[2m│   │   │   [0m[94mif[0m highest_val > [94m0.05[0m:                                             [31m [0m
+[31m [0m   [2m234 [0m[2m│   │   │   │   [0mtop_correlations.append([33mf[0m[33m"[0m[33m**[0m[33m{[0mpol[33m}[0m[33m**: Highly connected to *[0m[33m{[0mhig [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/[0m[1mseries.py[0m:1133 in __getitem__                                                [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m1130 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[key]                                          [31m [0m
+[31m [0m   [2m1131 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1132 [0m[2m│   │   [0m[94melif[0m key_is_scalar:                                                   [31m [0m
+[31m [0m [31m❱ [0m1133 [2m│   │   │   [0m[94mreturn[0m [1;4;96mself[0m[1;4m._get_value(key)[0m                                       [31m [0m
+[31m [0m   [2m1134 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1135 [0m[2m│   │   [0m[2m# Convert generator to list before going through hashable part[0m        [31m [0m
+[31m [0m   [2m1136 [0m[2m│   │   [0m[2m# (We will iterate through the generator there to check for slices)[0m   [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/[0m[1mseries.py[0m:1249 in _get_value                                                 [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m1246 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[label]                                        [31m [0m
+[31m [0m   [2m1247 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1248 [0m[2m│   │   [0m[2m# Similar to Index.get_value, but we do not fall back to positional[0m   [31m [0m
+[31m [0m [31m❱ [0m1249 [2m│   │   [0mloc = [1;4;96mself[0m[1;4m.index.get_loc(label)[0m                                       [31m [0m
+[31m [0m   [2m1250 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1251 [0m[2m│   │   [0m[94mif[0m is_integer(loc):                                                   [31m [0m
+[31m [0m   [2m1252 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[loc]                                          [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/indexes/[0m[1mbase.py[0m:3819 in get_loc                                              [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m3816 [0m[2m│   │   │   │   [0m[95mand[0m [96many[0m([96misinstance[0m(x, [96mslice[0m) [94mfor[0m x [95min[0m casted_key)             [31m [0m
+[31m [0m   [2m3817 [0m[2m│   │   │   [0m):                                                                [31m [0m
+[31m [0m   [2m3818 [0m[2m│   │   │   │   [0m[94mraise[0m InvalidIndexError(key)                                  [31m [0m
+[31m [0m [31m❱ [0m3819 [2m│   │   │   [0m[1;4;94mraise[0m[1;4m [0m[1;4;96mKeyError[0m[1;4m(key) [0m[1;4;94mfrom[0m[1;4;90m [0m[1;4;96merr[0m                                      [31m [0m
+[31m [0m   [2m3820 [0m[2m│   │   [0m[94mexcept[0m [96mTypeError[0m:                                                     [31m [0m
+[31m [0m   [2m3821 [0m[2m│   │   │   [0m[2m# If we have a listlike key, _check_indexing_error will raise[0m     [31m [0m
+[31m [0m   [2m3822 [0m[2m│   │   │   [0m[2m#  InvalidIndexError. Otherwise we fall through and re-raise[0m      [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mKeyError: [0mnan
+2026-03-16 21:08:37.357 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:08:37.373 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:08:42.132 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/Users/yeswanth/Desktop/VA/Dataset/Visual_Analytics/new_dashboard.py:230: FutureWarning:
+
+The behavior of Series.idxmax with all-NA values, or any-NA and skipna=False, is deprecated. In a future version this will raise ValueError
+
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/indexes/[0m[1mbase.py[0m:3812 in get_loc                                              [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m3809 [0m[2;33m│   │   [0m[33m"""[0m                                                                   [31m [0m
+[31m [0m   [2m3810 [0m[2m│   │   [0mcasted_key = [96mself[0m._maybe_cast_indexer(key)                            [31m [0m
+[31m [0m   [2m3811 [0m[2m│   │   [0m[94mtry[0m:                                                                  [31m [0m
+[31m [0m [31m❱ [0m3812 [2m│   │   │   [0m[94mreturn[0m [96mself[0m._engine.get_loc(casted_key)                           [31m [0m
+[31m [0m   [2m3813 [0m[2m│   │   [0m[94mexcept[0m [96mKeyError[0m [94mas[0m err:                                               [31m [0m
+[31m [0m   [2m3814 [0m[2m│   │   │   [0m[94mif[0m [96misinstance[0m(casted_key, [96mslice[0m) [95mor[0m (                             [31m [0m
+[31m [0m   [2m3815 [0m[2m│   │   │   │   [0m[96misinstance[0m(casted_key, abc.Iterable)                          [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.index.IndexEngine.get_loc:167                                        [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.index.IndexEngine.get_loc:196                                        [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.hashtable.PyObjectHashTable.get_item:7088                            [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.hashtable.PyObjectHashTable.get_item:7096                            [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mKeyError: [0mnan
+
+[3mThe above exception was the direct cause of the following exception:[0m
+
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/stre[0m [31m [0m
+[31m [0m [2mamlit/runtime/scriptrunner/[0m[1mexec_code.py[0m:129 in exec_func_with_error_handling         [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/stre[0m [31m [0m
+[31m [0m [2mamlit/runtime/scriptrunner/[0m[1mscript_runner.py[0m:689 in code_to_exec                      [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Users/yeswanth/Desktop/VA/Dataset/Visual_Analytics/[0m[1mnew_dashboard.py[0m:231 in <module> [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m228 [0m[2m│   │   │   [0mseries = corr_subset.loc[pol]                                      [31m [0m
+[31m [0m   [2m229 [0m[2m│   │   │   [0m[2m# Get the disease with max positive correlation for that pollutant[0m [31m [0m
+[31m [0m   [2m230 [0m[2m│   │   │   [0mhighest_disease = series.idxmax()                                  [31m [0m
+[31m [0m [31m❱ [0m231 [2m│   │   │   [0mhighest_val = [1;4mseries[highest_disease][0m                              [31m [0m
+[31m [0m   [2m232 [0m[2m│   │   │   [0m                                                                   [31m [0m
+[31m [0m   [2m233 [0m[2m│   │   │   [0m[94mif[0m highest_val > [94m0.05[0m:                                             [31m [0m
+[31m [0m   [2m234 [0m[2m│   │   │   │   [0mtop_correlations.append([33mf[0m[33m"[0m[33m**[0m[33m{[0mpol[33m}[0m[33m**: Highly connected to *[0m[33m{[0mhig [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/[0m[1mseries.py[0m:1133 in __getitem__                                                [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m1130 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[key]                                          [31m [0m
+[31m [0m   [2m1131 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1132 [0m[2m│   │   [0m[94melif[0m key_is_scalar:                                                   [31m [0m
+[31m [0m [31m❱ [0m1133 [2m│   │   │   [0m[94mreturn[0m [1;4;96mself[0m[1;4m._get_value(key)[0m                                       [31m [0m
+[31m [0m   [2m1134 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1135 [0m[2m│   │   [0m[2m# Convert generator to list before going through hashable part[0m        [31m [0m
+[31m [0m   [2m1136 [0m[2m│   │   [0m[2m# (We will iterate through the generator there to check for slices)[0m   [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/[0m[1mseries.py[0m:1249 in _get_value                                                 [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m1246 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[label]                                        [31m [0m
+[31m [0m   [2m1247 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1248 [0m[2m│   │   [0m[2m# Similar to Index.get_value, but we do not fall back to positional[0m   [31m [0m
+[31m [0m [31m❱ [0m1249 [2m│   │   [0mloc = [1;4;96mself[0m[1;4m.index.get_loc(label)[0m                                       [31m [0m
+[31m [0m   [2m1250 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1251 [0m[2m│   │   [0m[94mif[0m is_integer(loc):                                                   [31m [0m
+[31m [0m   [2m1252 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[loc]                                          [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/indexes/[0m[1mbase.py[0m:3819 in get_loc                                              [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m3816 [0m[2m│   │   │   │   [0m[95mand[0m [96many[0m([96misinstance[0m(x, [96mslice[0m) [94mfor[0m x [95min[0m casted_key)             [31m [0m
+[31m [0m   [2m3817 [0m[2m│   │   │   [0m):                                                                [31m [0m
+[31m [0m   [2m3818 [0m[2m│   │   │   │   [0m[94mraise[0m InvalidIndexError(key)                                  [31m [0m
+[31m [0m [31m❱ [0m3819 [2m│   │   │   [0m[1;4;94mraise[0m[1;4m [0m[1;4;96mKeyError[0m[1;4m(key) [0m[1;4;94mfrom[0m[1;4;90m [0m[1;4;96merr[0m                                      [31m [0m
+[31m [0m   [2m3820 [0m[2m│   │   [0m[94mexcept[0m [96mTypeError[0m:                                                     [31m [0m
+[31m [0m   [2m3821 [0m[2m│   │   │   [0m[2m# If we have a listlike key, _check_indexing_error will raise[0m     [31m [0m
+[31m [0m   [2m3822 [0m[2m│   │   │   [0m[2m#  InvalidIndexError. Otherwise we fall through and re-raise[0m      [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mKeyError: [0mnan
+2026-03-16 21:08:49.225 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:08:49.240 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:09:13.096 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+/Users/yeswanth/Desktop/VA/Dataset/Visual_Analytics/new_dashboard.py:230: FutureWarning:
+
+The behavior of Series.idxmax with all-NA values, or any-NA and skipna=False, is deprecated. In a future version this will raise ValueError
+
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/indexes/[0m[1mbase.py[0m:3812 in get_loc                                              [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m3809 [0m[2;33m│   │   [0m[33m"""[0m                                                                   [31m [0m
+[31m [0m   [2m3810 [0m[2m│   │   [0mcasted_key = [96mself[0m._maybe_cast_indexer(key)                            [31m [0m
+[31m [0m   [2m3811 [0m[2m│   │   [0m[94mtry[0m:                                                                  [31m [0m
+[31m [0m [31m❱ [0m3812 [2m│   │   │   [0m[94mreturn[0m [96mself[0m._engine.get_loc(casted_key)                           [31m [0m
+[31m [0m   [2m3813 [0m[2m│   │   [0m[94mexcept[0m [96mKeyError[0m [94mas[0m err:                                               [31m [0m
+[31m [0m   [2m3814 [0m[2m│   │   │   [0m[94mif[0m [96misinstance[0m(casted_key, [96mslice[0m) [95mor[0m (                             [31m [0m
+[31m [0m   [2m3815 [0m[2m│   │   │   │   [0m[96misinstance[0m(casted_key, abc.Iterable)                          [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.index.IndexEngine.get_loc:167                                        [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.index.IndexEngine.get_loc:196                                        [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.hashtable.PyObjectHashTable.get_item:7088                            [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m in pandas._libs.hashtable.PyObjectHashTable.get_item:7096                            [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mKeyError: [0mnan
+
+[3mThe above exception was the direct cause of the following exception:[0m
+
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/stre[0m [31m [0m
+[31m [0m [2mamlit/runtime/scriptrunner/[0m[1mexec_code.py[0m:129 in exec_func_with_error_handling         [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/stre[0m [31m [0m
+[31m [0m [2mamlit/runtime/scriptrunner/[0m[1mscript_runner.py[0m:689 in code_to_exec                      [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Users/yeswanth/Desktop/VA/Dataset/Visual_Analytics/[0m[1mnew_dashboard.py[0m:231 in <module> [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m228 [0m[2m│   │   │   [0mseries = corr_subset.loc[pol]                                      [31m [0m
+[31m [0m   [2m229 [0m[2m│   │   │   [0m[2m# Get the disease with max positive correlation for that pollutant[0m [31m [0m
+[31m [0m   [2m230 [0m[2m│   │   │   [0mhighest_disease = series.idxmax()                                  [31m [0m
+[31m [0m [31m❱ [0m231 [2m│   │   │   [0mhighest_val = [1;4mseries[highest_disease][0m                              [31m [0m
+[31m [0m   [2m232 [0m[2m│   │   │   [0m                                                                   [31m [0m
+[31m [0m   [2m233 [0m[2m│   │   │   [0m[94mif[0m highest_val > [94m0.05[0m:                                             [31m [0m
+[31m [0m   [2m234 [0m[2m│   │   │   │   [0mtop_correlations.append([33mf[0m[33m"[0m[33m**[0m[33m{[0mpol[33m}[0m[33m**: Highly connected to *[0m[33m{[0mhig [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/[0m[1mseries.py[0m:1133 in __getitem__                                                [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m1130 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[key]                                          [31m [0m
+[31m [0m   [2m1131 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1132 [0m[2m│   │   [0m[94melif[0m key_is_scalar:                                                   [31m [0m
+[31m [0m [31m❱ [0m1133 [2m│   │   │   [0m[94mreturn[0m [1;4;96mself[0m[1;4m._get_value(key)[0m                                       [31m [0m
+[31m [0m   [2m1134 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1135 [0m[2m│   │   [0m[2m# Convert generator to list before going through hashable part[0m        [31m [0m
+[31m [0m   [2m1136 [0m[2m│   │   [0m[2m# (We will iterate through the generator there to check for slices)[0m   [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/[0m[1mseries.py[0m:1249 in _get_value                                                 [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m1246 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[label]                                        [31m [0m
+[31m [0m   [2m1247 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1248 [0m[2m│   │   [0m[2m# Similar to Index.get_value, but we do not fall back to positional[0m   [31m [0m
+[31m [0m [31m❱ [0m1249 [2m│   │   [0mloc = [1;4;96mself[0m[1;4m.index.get_loc(label)[0m                                       [31m [0m
+[31m [0m   [2m1250 [0m[2m│   │   [0m                                                                      [31m [0m
+[31m [0m   [2m1251 [0m[2m│   │   [0m[94mif[0m is_integer(loc):                                                   [31m [0m
+[31m [0m   [2m1252 [0m[2m│   │   │   [0m[94mreturn[0m [96mself[0m._values[loc]                                          [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2m/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pand[0m [31m [0m
+[31m [0m [2mas/core/indexes/[0m[1mbase.py[0m:3819 in get_loc                                              [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m3816 [0m[2m│   │   │   │   [0m[95mand[0m [96many[0m([96misinstance[0m(x, [96mslice[0m) [94mfor[0m x [95min[0m casted_key)             [31m [0m
+[31m [0m   [2m3817 [0m[2m│   │   │   [0m):                                                                [31m [0m
+[31m [0m   [2m3818 [0m[2m│   │   │   │   [0m[94mraise[0m InvalidIndexError(key)                                  [31m [0m
+[31m [0m [31m❱ [0m3819 [2m│   │   │   [0m[1;4;94mraise[0m[1;4m [0m[1;4;96mKeyError[0m[1;4m(key) [0m[1;4;94mfrom[0m[1;4;90m [0m[1;4;96merr[0m                                      [31m [0m
+[31m [0m   [2m3820 [0m[2m│   │   [0m[94mexcept[0m [96mTypeError[0m:                                                     [31m [0m
+[31m [0m   [2m3821 [0m[2m│   │   │   [0m[2m# If we have a listlike key, _check_indexing_error will raise[0m     [31m [0m
+[31m [0m   [2m3822 [0m[2m│   │   │   [0m[2m#  InvalidIndexError. Otherwise we fall through and re-raise[0m      [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mKeyError: [0mnan
+2026-03-16 21:09:48.337 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:09:48.351 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:10:01.884 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:10:01.894 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:10:02.416 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:10:02.424 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:10:03.335 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:10:03.343 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:11.256 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:11.270 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:13.786 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:13.806 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:21.578 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:21.596 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:23.111 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:23.127 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:27.943 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:27.958 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:49.746 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:49.757 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:53.593 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:53.612 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:55.971 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:12:55.987 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:14:33.988 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:14:34.005 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:14:45.967 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:14:45.976 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:12.268 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:12.279 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:15.861 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:15.868 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:18.318 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:18.326 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:20.347 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:20.355 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:21.074 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:21.082 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:30.134 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:30.142 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:35.279 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:35.286 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:36.320 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:36.328 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:37.923 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:37.933 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:39.868 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:39.878 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:40.547 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:40.558 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:42.573 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:42.587 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:43.122 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:43.131 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:44.211 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:44.219 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:44.664 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:44.671 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:45.141 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:45.148 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:45.883 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:45.890 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:47.299 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:47.306 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:47.710 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:47.717 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:48.059 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:48.066 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:53.158 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:53.177 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:55.587 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:15:55.602 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:16:15.635 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:16:15.652 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:16:18.324 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:16:18.339 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:17:44.548 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:17:44.561 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:17:47.198 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:17:47.220 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:17:49.568 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:17:49.585 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:02.950 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:02.966 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:05.281 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:05.296 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:05.827 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:05.844 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:06.452 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:06.469 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:07.367 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:07.382 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:09.193 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:09.208 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:10.186 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:10.202 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:11.086 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:11.100 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:13.505 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:18:13.520 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:01.544 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:01.556 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:02.970 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:02.990 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:04.745 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:04.764 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:10.895 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:10.904 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:12.248 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:12.269 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:15.027 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-03-16 21:19:15.044 Please replace `use_container_width` with `width`.
+
+`use_container_width` will be removed after 2025-12-31.
+
+For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
