@@ -147,3 +147,5 @@ st.write(f"Visualizing Tree #{tree_id} (max visual depth limited to 3 for readab
 fig_tree = plt.figure(figsize=(20, 8))
 plot_tree(model.estimators_[tree_id], feature_names=selected_features, filled=True, max_depth=3, fontsize=10)
 st.pyplot(fig_tree, clear_figure=True)
+
+#streamlit run app.py
