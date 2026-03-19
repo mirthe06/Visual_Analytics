@@ -137,14 +137,15 @@ if page == "1. Forecasting & Tuning":
                 showarrow=True, arrowhead=2, arrowsize=1, arrowwidth=2, arrowcolor="red"
             )
         
-        fig_ts.update_layout(xaxis_title="Time", yaxis_title=target, height=450, hovermode="x unified", margin=dict(l=0, r=0, t=30, b=0))
+        fig_ts.update_layout(xaxis_title="Time", yaxis_title=target, height=450, hovermode="x unified", margin=dict(l=0, r=0, t=30, b=0), template="plotly_white")
         st.plotly_chart(fig_ts, use_container_width=True)
 
     with c2:
         st.subheader("Residual / Error Spread")
         error_df = pd.DataFrame({"Error": y_test - pred})
-        fig_err = px.histogram(error_df, x="Error", nbins=40, color_discrete_sequence=['red'])
+        fig_err = px.histogram(error_df, x="Error", nbins=40, color_discrete_sequence=['#ef553b'], template="plotly_white")
         fig_err.update_layout(height=450, margin=dict(l=0, r=0, t=30, b=0))
+        fig_err.update_traces(marker_line_width=1, marker_line_color="black")
         st.plotly_chart(fig_err, use_container_width=True)
 
     with st.expander("Expand to view Component Importances (SHAP)"):
@@ -156,11 +157,17 @@ if page == "1. Forecasting & Tuning":
         with c3:
             fig_shap, ax = plt.subplots(figsize=(6, 4))
             shap.summary_plot(shap_values, X_test, plot_type="dot", show=False)
+            fig_shap.patch.set_facecolor('none')
+            ax.set_facecolor('none')
+            plt.tight_layout()
             st.pyplot(fig_shap, clear_figure=True)
 
         with c4:
             fig_shap_bar, ax_bar = plt.subplots(figsize=(6, 4))
             shap.summary_plot(shap_values, X_test, plot_type="bar", show=False)
+            fig_shap_bar.patch.set_facecolor('none')
+            ax_bar.set_facecolor('none')
+            plt.tight_layout()
             st.pyplot(fig_shap_bar, clear_figure=True)
 
     st.subheader("Random Forest Logic Tree Search")
@@ -185,9 +192,12 @@ if page == "1. Forecasting & Tuning":
     else:
         st.info("This tree is completely flat (1 logic node) and predicts a single value. Try increasing the 'Tree Maximum Depth' in the sidebar.")
 
-    fig_tree = plt.figure(figsize=(20, 7))
+    fig_tree, ax_tree = plt.subplots(figsize=(20, 7))
     visual_depth = min(max_depth, 3) 
-    plot_tree(tree_estimator, feature_names=selected_features, filled=True, max_depth=visual_depth, fontsize=10, rounded=True)
+    plot_tree(tree_estimator, feature_names=selected_features, filled=True, max_depth=visual_depth, fontsize=10, rounded=True, ax=ax_tree)
+    fig_tree.patch.set_facecolor('none')
+    ax_tree.set_facecolor('none')
+    plt.tight_layout()
     st.pyplot(fig_tree, clear_figure=True)
 
 
@@ -232,7 +242,8 @@ elif page == "2. Health & Pollutant Interactions":
             color="Pollutant", 
             barmode='group',
             orientation='h',
-            title="Impact of Selected Pollutants on Health Conditions"
+            title="Impact of Selected Pollutants on Health Conditions",
+            template="plotly_white"
         )
         # Adapt height based on how many diseases we are looking at
         fig_bar.update_layout(height=max(500, len(disease_columns)*30), margin=dict(l=0, r=0, t=40, b=0))
