@@ -1,0 +1,13 @@
+visualization of what changed when we change the trees, the line is not persay easy, so we want a better visualization for this
+keep actual and predicted, and maybe a different lay out with difference. 
+shade the area between the two lines
+more visual than currently
+make it more readable
+heatmap or something underneath
+something that shows that the prediction goes closer to the actual line, like heatmap with how much further or closer you are, something like a heatmap or something
+as a background between two points color the background (positive or negative barchart maybe with what is positive and negative)
+
+Marketplace: story for this thing
+for each tree we could have the different stories, why does this decision tree make certain decisions
+what is the feature importance etc in this
+we don't expect to have a lot of information also on the use case, as long as the story is one comprehensive thing
