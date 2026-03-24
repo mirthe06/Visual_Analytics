@@ -11,3 +11,22 @@ Marketplace: story for this thing
 for each tree we could have the different stories, why does this decision tree make certain decisions
 what is the feature importance etc in this
 we don't expect to have a lot of information also on the use case, as long as the story is one comprehensive thing
+
+diverging bar chart in ggplot2 negative and positive compared to original prediction
+
+from plotnine import ggplot
+color <- ifelse(df$value < 0, "pink", "lightblue")
+ggplot(df, aes(x = reorder(group, value), y = value)) +
+  geom_bar(stat = "identity",
+           show.legend = FALSE,
+           fill = color,
+           color = 'white') +
+  geom_text(aes(label = round(value, 1),
+                hjust = 0.5,
+                vjust = ifelse(value < 0, 1.5, -1)),
+            size = 2.5) +
+  xlab("Group") +
+  ylab("Value") +
+  scale_y_continuous(limits = c(min(df$value) - 0.2,
+                                max(df$value) + 0.2)) 
+
