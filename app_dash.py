@@ -70,7 +70,7 @@ def fig_to_uri(fig):
     return 'data:image/png;base64,{}'.format(encoded)
 
 # --- 3. DASH APP SETUP --------------------------------------------------------
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG, "https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"], suppress_callback_exceptions=True)
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.FLATLY, "https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"], suppress_callback_exceptions=True)
 app.title = "Air Quality Analytics | Dash"
 
 # --- 4. ASYNC MODEL WRAPPER ---------------------------------------------------
@@ -105,12 +105,12 @@ app.layout = dbc.Container([
     ]),
 
     dcc.Tabs(id="tabs-navigation", value='tab-forecasting', children=[
-        dcc.Tab(label='Forecasting & Tuning', value='tab-forecasting', className='custom-tab', selected_className='custom-tab--selected', style={'backgroundColor': '#1e1e2e', 'color': '#94a3b8'}),
-        dcc.Tab(label='Correlation Explorer', value='tab-correlation', className='custom-tab', selected_className='custom-tab--selected', style={'backgroundColor': '#1e1e2e', 'color': '#94a3b8'}),
+        dcc.Tab(label='Forecasting & Tuning', value='tab-forecasting', className='custom-tab', selected_className='custom-tab--selected', style={'backgroundColor': '#f1f5f9', 'color': '#475569'}),
+        dcc.Tab(label='Correlation Explorer', value='tab-correlation', className='custom-tab', selected_className='custom-tab--selected', style={'backgroundColor': '#f1f5f9', 'color': '#475569'}),
     ], style={'marginBottom': '20px'}),
 
     html.Div(id='tabs-content')
-], fluid=True, style={'backgroundColor': '#0b0f19', 'minHeight': '100vh', 'color': '#e2e8f0'})
+], fluid=True, style={'backgroundColor': '#f8fafc', 'minHeight': '100vh', 'color': '#1e293b'})
 
 # --- 6. TAB CONTENT RENDERERS -------------------------------------------------
 
@@ -136,7 +136,7 @@ def render_forecasting_tab():
                         html.Hr(),
                         dbc.Button("Apply & Retrain", id='btn-retrain', color="primary", className="w-100")
                     ])
-                ], color="dark", outline=True)
+                ], color="light", outline=True)
             ], width=3),
 
             # Main Performance and Forecast
@@ -156,7 +156,7 @@ def render_forecasting_tab():
                         html.H6("Prediction Improvement Divergence", className="text-center text-muted small"),
                         dcc.Graph(id='divergence-graph', config={'displayModeBar': False}, style={'height': '150px'})
                     ])
-                ], color="secondary", outline=True, className="p-2")
+                ], color="light", outline=True, className="p-2")
             ], width=9)
         ], className="mb-4"),
 
@@ -274,7 +274,7 @@ def render_correlation_tab():
                         dcc.Dropdown(id='corr-disease-selector', options=[{'label': d, 'value': d} for d in disease_columns], 
                                      value=disease_columns[:3], multi=True),
                     ])
-                ], color="dark", outline=True)
+                ], color="s", outline=True)
             ], width=3),
             dbc.Col([
                 dbc.Card([
@@ -508,8 +508,8 @@ def update_main_forecast_plots(data, disabled, sel_idx, best_trees):
     fig_ts.add_trace(go.Scatter(x=[dates[sel_idx]], y=[orig_pred[sel_idx]], mode="markers", 
                                 marker=dict(color="#fff", size=14, line=dict(color="#000", width=2)), name="Selection"))
     
-    fig_ts.update_layout(template="plotly_dark", height=450, margin=dict(l=10, r=10, t=30, b=10),
-                         paper_bgcolor="#0b0f19", plot_bgcolor="#0b0f19",
+    fig_ts.update_layout(template="plotly_white", height=450, margin=dict(l=10, r=10, t=30, b=10),
+                         paper_bgcolor="white", plot_bgcolor="white",
                          legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1))
 
     # --- Divergence Plot (Bar per data point) ---
@@ -528,28 +528,28 @@ def update_main_forecast_plots(data, disabled, sel_idx, best_trees):
         
         # High-contrast black background with wider, solid bars
         fig_div.update_layout(
-            template="plotly_dark", 
+            template="plotly_white", 
             height=200, 
             margin=dict(l=40, r=20, t=10, b=40),
-            paper_bgcolor="#000000", 
-            plot_bgcolor="#000000",
+            paper_bgcolor="#ffffff", 
+            plot_bgcolor="#ffffff",
             bargap=0.05, # Makes the bars much wider
             xaxis=dict(
                 title="Timeline",
                 showticklabels=True, 
                 showgrid=True, 
-                gridcolor="#1e293b", # Subtle dark grid
+                gridcolor="#e2e8f0", # Light grid
                 zeroline=True,
-                zerolinecolor="#334155",
-                color="white"
+                zerolinecolor="#cbd5e1",
+                color="#1e293b"
             ),
             yaxis=dict(
                 title="Divergence", 
                 showgrid=True, 
-                gridcolor="#1e293b", 
+                gridcolor="#e2e8f0", 
                 zeroline=True, 
-                zerolinecolor="#334155",
-                color="white"
+                zerolinecolor="#cbd5e1",
+                color="#1e293b"
             ),
             showlegend=False
         )
@@ -557,9 +557,9 @@ def update_main_forecast_plots(data, disabled, sel_idx, best_trees):
     else:
         # Before modification, show an empty placeholder or empty figure
         fig_div = go.Figure()
-        fig_div.update_layout(template="plotly_dark", height=150, paper_bgcolor="#0b0f19", plot_bgcolor="#0b0f19",
+        fig_div.update_layout(template="plotly_white", height=150, paper_bgcolor="#f8fafc", plot_bgcolor="#f8fafc",
                               xaxis=dict(visible=False), yaxis=dict(visible=False),
-                              annotations=[dict(text="Apply a modification to see impact divergence", showarrow=False, font=dict(color="#94a3b8"))])
+                              annotations=[dict(text="Apply a modification to see impact divergence", showarrow=False, font=dict(color="#64748b"))])
 
     # Heatmap
     max_h = min(30, n_total)
@@ -590,7 +590,7 @@ def update_main_forecast_plots(data, disabled, sel_idx, best_trees):
         for ti in disabled:
             if ti < max_h: overlay_z[:, ti] = 1.0
         fig_heat.add_trace(go.Heatmap(z=overlay_z, x=labels, y=feats, colorscale=[[0, "rgba(0,0,0,0)"], [1, "rgba(244,63,94,0.22)"]], showscale=False, hoverinfo="skip"))
-    fig_heat.update_layout(template="plotly_dark", height=380, margin=dict(l=10, r=10, t=10, b=10))
+    fig_heat.update_layout(template="plotly_white", height=380, margin=dict(l=10, r=10, t=10, b=10))
 
     # Tree Bar Plot
     colors = []
@@ -601,7 +601,7 @@ def update_main_forecast_plots(data, disabled, sel_idx, best_trees):
     
     fig_tree_bar = go.Figure(go.Bar(x=[f"T{i}" for i in range(max_h)], y=t_preds[:max_h, sel_idx], marker_color=colors))
     fig_tree_bar.add_hline(y=y_test[sel_idx], line_dash="dash", line_color="#38bdf8", annotation_text="Actual")
-    fig_tree_bar.update_layout(template="plotly_dark", height=380, margin=dict(l=10, r=10, t=10, b=10))
+    fig_tree_bar.update_layout(template="plotly_white", height=380, margin=dict(l=10, r=10, t=10, b=10))
 
     # Insight Banner
     banner = dbc.Alert([
@@ -610,11 +610,11 @@ def update_main_forecast_plots(data, disabled, sel_idx, best_trees):
         html.Span(f" | Orig: {orig_pred[sel_idx]:.3f}", className="ms-3", style={'textDecoration': 'line-through', 'color': '#94a3b8'}),
         html.Span(f" | Mod Pred: {mod_pred[sel_idx]:.3f}", className="ms-3", style={'color': '#a78bfa', 'fontWeight': 'bold'}),
         html.Span(f" | Active Trees: {n_total - n_disabled}/{n_total}", className="ms-3")
-    ], color="dark", style={'borderLeft': '4px solid #facc15'})
+    ], color="light", style={'borderLeft': '4px solid #facc15'})
 
     # Error Hist
     residuals = y_test - mod_pred
-    fig_err = px.histogram(pd.DataFrame({"Residuals": residuals}), x="Residuals", nbins=40, template="plotly_dark", color_discrete_sequence=["#ef553b"])
+    fig_err = px.histogram(pd.DataFrame({"Residuals": residuals}), x="Residuals", nbins=40, template="plotly_white", color_discrete_sequence=["#ef553b"])
     fig_err.update_layout(height=350, margin=dict(l=10, r=10, t=10, b=10))
 
     # Top Errors Table
@@ -623,8 +623,8 @@ def update_main_forecast_plots(data, disabled, sel_idx, best_trees):
     tbl = dash_table.DataTable(
         data=top_errs.to_dict('records'),
         columns=[{"name": i, "id": i} for i in top_errs.columns],
-        style_header={'backgroundColor': '#1e1e2e', 'color': 'white', 'fontWeight': 'bold'},
-        style_cell={'backgroundColor': '#0b0f19', 'color': '#e2e8f0', 'textAlign': 'left'},
+        style_header={'backgroundColor': '#f1f5f9', 'color': '#1e293b', 'fontWeight': 'bold'},
+        style_cell={'backgroundColor': 'white', 'color': '#334155', 'textAlign': 'left'},
         style_as_list_view=True
     )
     return fig_ts, fig_heat, fig_tree_bar, banner, f"{r2:.3f}", f"{mae:.3f}", f"{mse:.3f}", fig_err, tbl, fig_div
@@ -651,21 +651,20 @@ def update_analysis_protocol(data, disabled):
     
     residuals = y_test - mod_pred
     
-    # 1. Residuals vs Predicted
     fig_rvp = px.scatter(x=mod_pred, y=residuals, labels={"x": "Predicted", "y": "Residual"},
-                         trendline="lowess", title="Residuals vs Predicted", template="plotly_dark")
-    fig_rvp.add_hline(y=0, line_dash="dash", line_color="white")
+                         trendline="lowess", title="Residuals vs Predicted", template="plotly_white")
+    fig_rvp.add_hline(y=0, line_dash="dash", line_color="#1e293b")
     
     # 2. Predicted vs Actual
     pav = pd.DataFrame({"Actual": y_test, "Predicted": mod_pred})
     fig_pa = px.scatter(pav, x="Actual", y="Predicted", trendline="ols",
-                        title="Predicted vs Actual", template="plotly_dark")
+                        title="Predicted vs Actual", template="plotly_white")
     fig_pa.add_shape(type="line", x0=pav["Actual"].min(), y0=pav["Actual"].min(),
-                     x1=pav["Actual"].max(), y1=pav["Actual"].max(), line_dash="dash", line_color="white")
+                     x1=pav["Actual"].max(), y1=pav["Actual"].max(), line_dash="dash", line_color="#1e293b")
     
     # 3. Residuals over Time
-    fig_rt = px.line(x=dates, y=residuals, title="Residuals over Time", template="plotly_dark")
-    fig_rt.add_hline(y=0, line_dash="dash", line_color="white")
+    fig_rt = px.line(x=dates, y=residuals, title="Residuals over Time", template="plotly_white")
+    fig_rt.add_hline(y=0, line_dash="dash", line_color="#1e293b")
 
     return [
         dbc.Row([
@@ -752,12 +751,12 @@ def update_correlation_view(selected_pollutants, selected_diseases):
     
     # Heatmap
     fig_heat = px.imshow(corr.values, x=selected_diseases, y=selected_pollutants,
-                         color_continuous_scale='RdBu_r', zmin=-1, zmax=1, template="plotly_dark")
+                         color_continuous_scale='RdBu_r', zmin=-1, zmax=1, template="plotly_white")
     fig_heat.update_layout(margin=dict(l=40, r=40, t=40, b=40))
     
     # Bar
     melt_corr = corr.reset_index().melt(id_vars='index', var_name='Disease', value_name='Correlation').rename(columns={'index': 'Pollutant'})
-    fig_bar = px.bar(melt_corr, x='Correlation', y='Disease', color='Pollutant', orientation='h', barmode='group', template="plotly_dark")
+    fig_bar = px.bar(melt_corr, x='Correlation', y='Disease', color='Pollutant', orientation='h', barmode='group', template="plotly_white")
     
     p_opts = [{'label': p, 'value': p} for p in selected_pollutants]
     d_opts = [{'label': d, 'value': d} for d in selected_diseases]
@@ -773,7 +772,7 @@ def update_scatter(p, d):
     if not p or not d: return go.Figure()
     df = df_merged_full
     scatter_df = df[[p, d]].dropna()
-    fig = px.scatter(scatter_df, x=p, y=d, trendline="ols", template="plotly_dark", color_discrete_sequence=["#38bdf8"])
+    fig = px.scatter(scatter_df, x=p, y=d, trendline="ols", template="plotly_white", color_discrete_sequence=["#38bdf8"])
     return fig
 
 @app.callback(
